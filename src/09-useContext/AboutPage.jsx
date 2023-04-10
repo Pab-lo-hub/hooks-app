@@ -1,9 +1,11 @@
-import React from 'react'
 
-const AboutPage = () => {
-  return (
-    <div>AboutPage</div>
-  )
-}
 
-export default AboutPage
+export const AboutPage = () => {
+    return (
+      <>
+          <h1>AboutPage</h1>
+          <hr />
+      </>
+    )
+  }
+  
