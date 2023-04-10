@@ -1,9 +1,6 @@
-import React from 'react'
 
-const HooksApp = () => {
+export const HooksApp = () => {
   return (
-    <div>HooksApp</div>
+    <h1>HooksApp</h1>
   )
 }
-
-export default HooksApp
