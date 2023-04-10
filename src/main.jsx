@@ -19,7 +19,6 @@ import { BrowserRouter } from "react-router-dom";
 import { TodoApp } from './08-useReducer/TodoApp';
 
 import './index.css';
-import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
